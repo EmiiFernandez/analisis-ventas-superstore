@@ -18,6 +18,8 @@ Este proyecto simula un entorno de negocio real para analizar las ventas de un r
 Puedes ver el Dashboard interactivo completo 👉 
 [Looker Studio](https://lookerstudio.google.com/reporting/a92aa016-395b-4c03-97ab-1d0f94a85d3b)
 
+<img width="1626" height="916" alt="image" src="https://github.com/user-attachments/assets/83082a29-0c39-4380-819c-0b090f3d1ce8" />
+
 ## 📂 Estructura del Repositorio
-* `analisis_ventas.ipynb`: Notebook con todo el código comentado.
+* `analisis_ventas.ipynb`: Realizado en Google Colab.
 * `superstore_limpio_final.csv`: Dataset utilizado.
