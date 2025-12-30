@@ -21,7 +21,6 @@ Puedes ver el Dashboard interactivo completo 👉
 <div align="center">
   <img src="https://github.com/user-attachments/assets/83082a29-0c39-4380-819c-0b090f3d1ce8" alt="Dashboard de Ventas - Superstore Retail" width="700">
 </div>
-<br>
 
 ## 📂 Estructura del Repositorio
 * `analisis_ventas.ipynb`: Realizado en Google Colab.
